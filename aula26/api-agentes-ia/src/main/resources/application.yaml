@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api-agentes-ia
+
+server:
+  port: 8080
