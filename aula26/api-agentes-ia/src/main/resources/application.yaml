@@ -3,4 +3,9 @@ spring:
     name: api-agentes-ia
 
 server:
-  port: 8080
+  port: 8084
+
+openai:
+  key:
+  endpoint: https://api.openai.com/v1
+  model: gpt-4o-mini
